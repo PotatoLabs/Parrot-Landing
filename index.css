@@ -106,7 +106,6 @@ main {
   .banner-container {
     background-image: none;
     height: inherit;
-    top: 20px;
   }
 }
 
